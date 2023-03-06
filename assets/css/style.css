@@ -70,7 +70,7 @@ nav ul li a {
 }
 
 
-/* flexbox-section */
+/* flexbox */
 .flex { 
 
   gap: 2em;
@@ -124,7 +124,7 @@ div {
   padding: 40px 20px;
 }
 
-.footer {  /* menu */
+.footer {  /* rodapé */
   position: absolute;
   height: 60px;
   right: 0;
